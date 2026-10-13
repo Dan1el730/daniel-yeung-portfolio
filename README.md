@@ -16,6 +16,8 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) to view the site. Edit `src/app/page.tsx` to update the page and `src/app/globals.css` to adjust its visual system.
 
+On Windows, run `start.bat` from the project folder to start the development server.
+
 ## Checks
 
 ```bash
